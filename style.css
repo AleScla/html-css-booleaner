@@ -56,6 +56,10 @@ h1{
     background-color:yellow;
 }
 
+#lista{
+    padding-left:20px;
+}
+
 .testo, ul{
     margin-top:20px;
     font-weight:500;
@@ -74,7 +78,11 @@ table{
 
 th{
     color:white;
-    padding-right:80px;
+
+}
+
+.table-head{
+    width:300px;
 }
 
 
