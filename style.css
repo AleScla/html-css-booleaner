@@ -5,7 +5,7 @@
 }
 header{
     background-image:url(./img/pattern.png);
-    background-color:lightblue;
+    background-color:rgb(103, 130, 253)
 }
 
 header > img{
@@ -24,4 +24,15 @@ margin-right:10%;
 h1{
     font-size:4rem;
     
+}
+#crediti{
+    color:rgb(150, 150, 150);
+    font-size:2rem;
+}
+
+#color-blue{
+    color:rgb(103, 130, 253)
+}
+#data-documento{
+    font-size:1rem;
 }
